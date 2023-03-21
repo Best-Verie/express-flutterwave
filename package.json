@@ -22,6 +22,8 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "flutterwave-node": "^1.2.2",
-    "nodemon": "^2.0.21"
+    "flutterwave-node-v3": "^1.1.2",
+    "nodemon": "^2.0.21",
+    "open": "^9.0.0"
   }
 }
