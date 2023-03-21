@@ -1,0 +1,27 @@
+{
+  "name": "express-flutterwave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Best-Verie/express-flutterwave.git"
+  },
+  "author": "Best Verie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Best-Verie/express-flutterwave/issues"
+  },
+  "homepage": "https://github.com/Best-Verie/express-flutterwave#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "flutterwave-node": "^1.2.2",
+    "nodemon": "^2.0.21"
+  }
+}
